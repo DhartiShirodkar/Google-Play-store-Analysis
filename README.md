@@ -1,5 +1,5 @@
 # Google Play Store Analysis
-Overview
+### Overview
 This project focuses on analyzing data from the Google Play Store to gain insights into various dimensions of app performance and user preferences. The dataset was obtained from Kaggle in Excel format and underwent preprocessing to handle missing values. Excel's built-in functions, formulas, and pivot tables were leveraged to calculate summary statistics, trends, correlations, and distributions within the data.
 
 ### Data
